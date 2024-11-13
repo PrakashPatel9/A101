@@ -1,3 +1,7 @@
+Group 
+A101
+Module team research and development
+ 
 Step-by-Step Instructions for Research Analysis
 Step 1: Define the Research Question
 Research Question: How does an individual's job type affect the likelihood of subscribing to a term deposit?
